@@ -21,7 +21,7 @@ market data and reviewed with structured feedback.
 
 | Week | Theme | Status | Artifact |
 |------|-------|--------|----------|
-| 0 | Setup & environment | 🔄 In progress | — |
+| 0 | Setup & environment | ✅ Complete | — |
 | 1 | Market orientation | ⬜ Not started | — |
 | 2 | Options fundamentals | ⬜ Not started | — |
 | 3 | Black-Scholes pricer | ⬜ Not started | — |
